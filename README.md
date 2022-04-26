@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome!
 
 - 🔭 I’m currently working on https://github.com/ElvisBekis/flight-planner
 - 🌱 I’m currently learning JAVA(Spring), TS(Angular), HTML, CSS
